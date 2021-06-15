@@ -1,3 +1,3 @@
 # docker
 
-for learning purposes
+docker images for learning purposes
